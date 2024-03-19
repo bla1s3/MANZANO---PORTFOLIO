@@ -1,0 +1,39 @@
+body {
+    background-image: url("black.jpg");
+    background-repeat: repeat-x;
+}
+
+.navi {
+    font-family: monospace;
+    list-style-type: none;
+    text-decoration: solid;
+}
+
+.name {
+    font-family: monospace; 
+    padding: 5px; 
+    font-weight: bold; 
+    font-style: oblique;
+    font-size: 30px; 
+    background-color: rgb(221, 215, 215); 
+    border-radius: 30px; 
+    border-style: double; 
+    border-width: 20px;
+    border-color:rgb(41, 35, 35);
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+a {
+    padding: 10px; 
+    background-color: rgb(221, 167, 167); 
+    margin: 30px;
+    list-style-type: none;
+    text-decoration: none;
+    border-radius: 30px; 
+    border-style: double; 
+    border-width: 5px;
+    border-color:rgb(41, 35, 35);
+    color: black;
+}
